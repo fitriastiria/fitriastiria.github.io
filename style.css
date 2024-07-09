@@ -1,7 +1,12 @@
-body {
-  min-height: 2000px;
+.navbar {
+  background-color: #006600;
 }
+
 .jumbotron {
-  padding-top: 2rem;
-  background-color: #66ff66;
+  padding-top: 5rem;
+  background-color: #99ff99;
+}
+
+section {
+  padding-top: 5rem;
 }
